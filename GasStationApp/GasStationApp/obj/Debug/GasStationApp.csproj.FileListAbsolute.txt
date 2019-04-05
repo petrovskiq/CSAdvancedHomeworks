@@ -1,0 +1,10 @@
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\bin\Debug\GasStationApp.exe.config
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\bin\Debug\GasStationApp.exe
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\bin\Debug\GasStationApp.pdb
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\bin\Debug\MyLibrary.dll
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\bin\Debug\MyLibrary.pdb
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\obj\Debug\GasStationApp.csprojAssemblyReference.cache
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\obj\Debug\GasStationApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\obj\Debug\GasStationApp.csproj.CopyComplete
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\obj\Debug\GasStationApp.exe
+C:\Users\Martin Petrovski\Desktop\GasStationApp\GasStationApp\obj\Debug\GasStationApp.pdb
