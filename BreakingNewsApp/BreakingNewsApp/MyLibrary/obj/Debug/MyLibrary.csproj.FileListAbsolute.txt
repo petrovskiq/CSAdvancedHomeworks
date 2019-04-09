@@ -1,0 +1,6 @@
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\MyLibrary\obj\Debug\MyLibrary.pdb

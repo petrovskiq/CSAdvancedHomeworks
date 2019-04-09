@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingNewsApp", "BreakingNewsApp\BreakingNewsApp.csproj", "{DEDC69FB-168C-44DF-8E6D-CC0B03A53EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{1990C7BF-F669-46D6-9B2A-B4EA6967E664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDC69FB-168C-44DF-8E6D-CC0B03A53EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDC69FB-168C-44DF-8E6D-CC0B03A53EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDC69FB-168C-44DF-8E6D-CC0B03A53EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDC69FB-168C-44DF-8E6D-CC0B03A53EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1990C7BF-F669-46D6-9B2A-B4EA6967E664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1990C7BF-F669-46D6-9B2A-B4EA6967E664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1990C7BF-F669-46D6-9B2A-B4EA6967E664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1990C7BF-F669-46D6-9B2A-B4EA6967E664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {269634B0-3F96-46EA-88A3-7058F7E7687B}
+	EndGlobalSection
+EndGlobal

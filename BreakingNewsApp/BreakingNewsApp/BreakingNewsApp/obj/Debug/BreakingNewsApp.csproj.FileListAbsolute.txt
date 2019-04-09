@@ -1,0 +1,10 @@
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\obj\Debug\BreakingNewsApp.csprojAssemblyReference.cache
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\obj\Debug\BreakingNewsApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\bin\Debug\BreakingNewsApp.exe.config
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\bin\Debug\BreakingNewsApp.exe
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\bin\Debug\BreakingNewsApp.pdb
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\bin\Debug\MyLibrary.dll
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\bin\Debug\MyLibrary.pdb
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\obj\Debug\BreakingNewsApp.csproj.CopyComplete
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\obj\Debug\BreakingNewsApp.exe
+C:\Users\Martin Petrovski\Documents\GitHub\CSAdvancedHomeworks\BreakingNewsApp\BreakingNewsApp\BreakingNewsApp\obj\Debug\BreakingNewsApp.pdb
