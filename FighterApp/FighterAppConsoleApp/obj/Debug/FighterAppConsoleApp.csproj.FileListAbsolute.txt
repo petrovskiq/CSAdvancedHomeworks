@@ -1,0 +1,10 @@
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\bin\Debug\FighterAppConsoleApp.exe.config
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\bin\Debug\FighterAppConsoleApp.exe
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\bin\Debug\FighterAppConsoleApp.pdb
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\bin\Debug\MyLibrary.dll
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\bin\Debug\MyLibrary.pdb
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\obj\Debug\FighterAppConsoleApp.csprojAssemblyReference.cache
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\obj\Debug\FighterAppConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\obj\Debug\FighterAppConsoleApp.csproj.CopyComplete
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\obj\Debug\FighterAppConsoleApp.exe
+C:\Users\Martin Petrovski\Desktop\FighterApp\FighterAppConsoleApp\FighterAppConsoleApp\obj\Debug\FighterAppConsoleApp.pdb
