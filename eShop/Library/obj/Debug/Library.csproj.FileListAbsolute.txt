@@ -1,0 +1,12 @@
+D:\Downloads\SEDC\vezbanje so kolegi\C#\07.05.2019\eShop\Library\bin\Debug\Library.dll
+D:\Downloads\SEDC\vezbanje so kolegi\C#\07.05.2019\eShop\Library\bin\Debug\Library.pdb
+D:\Downloads\SEDC\vezbanje so kolegi\C#\07.05.2019\eShop\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Downloads\SEDC\vezbanje so kolegi\C#\07.05.2019\eShop\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\vezbanje so kolegi\C#\07.05.2019\eShop\Library\obj\Debug\Library.dll
+D:\Downloads\SEDC\vezbanje so kolegi\C#\07.05.2019\eShop\Library\obj\Debug\Library.pdb
+C:\Users\Martin Petrovski\Desktop\dwd\eShop\Library\bin\Debug\Library.dll
+C:\Users\Martin Petrovski\Desktop\dwd\eShop\Library\bin\Debug\Library.pdb
+C:\Users\Martin Petrovski\Desktop\dwd\eShop\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Martin Petrovski\Desktop\dwd\eShop\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Martin Petrovski\Desktop\dwd\eShop\Library\obj\Debug\Library.dll
+C:\Users\Martin Petrovski\Desktop\dwd\eShop\Library\obj\Debug\Library.pdb
